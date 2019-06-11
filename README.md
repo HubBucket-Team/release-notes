@@ -1,3 +1,3 @@
 ## Week ending June 14, 2019
-- Android app in Beta
-- Iterations in Beta
+- [Iterations in Beta](link to blog post)
+- [Android app in Beta](link to blog post)
