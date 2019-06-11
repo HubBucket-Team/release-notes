@@ -1,3 +1,3 @@
 ## Week ending June 14, 2019
-- [Iterations in Beta](link to blog post)
-- [Android app in Beta](link to blog post)
+- [Iterations in Beta](https://clubhouse.io/)
+- [Android app in Beta](https://clubhouse.io/)
