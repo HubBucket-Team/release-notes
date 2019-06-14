@@ -6,6 +6,7 @@
 | [Android app](https://clubhouse.io/blog/clubhouse-for-android) | <img src="images/20190614/clubhouse-android.png" height="200px" /> |
 | New story density<br/>option: Title only | <img src="images/20190614/story-density.png" height="200px" /> |
 | More discoverable<br/>OR vs AND in Stories<br/>page sidebar | <img src="images/20190614/and-vs-or-more-discoverable.png" height="200px" /> |
+| Move group by and<br/>view controls to the<br/>right on epics page<br/>to manage clutter | <img src="images/20190614/group-by-view-controls-to-right.png" height="200px" /> |
 
 ---
 
