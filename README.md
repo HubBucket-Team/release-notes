@@ -1,4 +1,6 @@
-### Week ending June 14, 2019
+# Clubhouse release notes 📝
+
+## Week ending June 14, 2019
 
 | 🚀 | 👀 |
 | :--- | :--- |
