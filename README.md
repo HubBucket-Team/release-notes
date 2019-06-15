@@ -1,4 +1,4 @@
-## Week ending June 14, 2019
+### Week ending June 14, 2019
 
 | 🚀 | 👀 |
 | :--- | :--- |
