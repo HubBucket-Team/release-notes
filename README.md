@@ -12,4 +12,5 @@
 
 ---
 
-[Join the Clubhouse Community on Slack](https://clubhouse.io/community/)
+- Email victor@clubhouse.io for questions and comments
+- Join the [Clubhouse Community on Slack](https://clubhouse.io/community/)
