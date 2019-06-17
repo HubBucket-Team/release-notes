@@ -1,5 +1,10 @@
 # Clubhouse release notes 📝
 
+## Week ending June 21, 2019
+| 🚀 | 👀 |
+| :--- | :--- |
+| Consistent re-styling<br/>of epics filters<br/>in stories sidebar | <img src="images/20190621/epics-stories-sidebar-restyled.png" height="200px" /> |
+
 ## Week ending June 14, 2019
 
 | 🚀 | 👀 |
