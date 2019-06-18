@@ -4,7 +4,7 @@
 | 🚀 | 👀 |
 | :--- | :--- |
 | Consistent re-styling<br/>of epics filters<br/>in stories sidebar | <img src="images/20190621/epics-stories-sidebar-restyled.png" height="200px" /> |
-| Frontend optimizations<br/>on iterations detail page<br/>for more performant real-time updates | - |
+| Frontend optimizations<br/>on iterations detail page<br/>for more performant<br/>real-time updates | - |
 
 ## Week ending June 14, 2019
 
