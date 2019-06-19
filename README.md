@@ -4,7 +4,7 @@
 | 🚀 | 👀 |
 | :--- | :--- |
 | Consistent re-styling<br/>of epics filters<br/>in stories sidebar | <img src="images/20190621/epics-stories-sidebar-restyled.png" height="200px" /> |
-| Frontend optimizations<br/>on iterations detail page<br/>for more performant<br/>real-time updates | <img src="images/20190621/iteration-detail-page.png" height="200px" /> |
+| Frontend<br/>optimizations<br/>on iterations<br/>detail page<br/>for more performant<br/>real-time updates | <img src="images/20190621/iteration-detail-page.png" height="200px" /> |
 | Navigate to<br/>iteration after<br/>creation | <img src="images/20190621/link-to-iteration-creation.png" height="200px" /> |
 
 ## Week ending June 14, 2019
