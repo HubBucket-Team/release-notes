@@ -1,12 +1,12 @@
 # Clubhouse release notes 📝
 
 ## Week ending June 21, 2019
-| 🚀 | 👀 |
+| 👀 | 🚀 |
 | :--- | :--- |
 | Consistent styling<br/>of Epics filters<br/>in Stories page<br/>sidebar<br/><br/>[Internal](https://app.clubhouse.io/internal/story/62583) | <img src="images/20190621/epics-stories-sidebar-restyled.png" height="200px" /> |
 | Frontend<br/>optimizations<br/>on Iteration<br/>detail page<br/>for more performant<br/>real-time updates<br/><br/>[Internal](https://app.clubhouse.io/internal/story/62243) | <img src="images/20190621/iteration-detail-page.png" height="200px" /> |
-| Navigate to<br/>Iteration after<br/>creating it<br/><br/>[Internal](https://app.clubhouse.io/internal/story/62622) | <img src="images/20190621/link-to-iteration-creation.png" height="200px" /> |
-| Revised layout<br/>of Reports page<br/>for more efficient<br/>use of space | - |
+| <img src="images/20190621/link-to-iteration-creation.png" width="200px" /> | Navigate to Iteration after creating it<br/>[Internal](https://app.clubhouse.io/internal/story/62622) |
+| - | Revised layout of Reports page for more efficient use of space |
 
 ## Week ending June 14, 2019
 
