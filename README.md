@@ -20,4 +20,4 @@
 
 ---
 
-Email victor@clubhouse.io or join the [Clubhouse Community on Slack](https://clubhouse.io/community/) for questions and feedback
+Email victor@clubhouse.io, tweet [@victorwuky](https://twitter.com/victorwuky), or join our [Clubhouse Community on Slack](https://clubhouse.io/community/) for questions and feedback.
