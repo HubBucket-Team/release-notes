@@ -6,7 +6,7 @@
 | <img src="images/20190621/epics-stories-sidebar-restyled.png" width="200px" /> | Consistent styling of Epics filters in Stories page sidebar<br/>[Internal](https://app.clubhouse.io/internal/story/62583) |
 | <img src="images/20190621/iteration-detail-page.png" width="200px" /> | Frontend optimizations on Iteration detail page for more performant real-time updates<br/>[Internal](https://app.clubhouse.io/internal/story/62243) |
 | <img src="images/20190621/link-to-iteration-creation.png" width="200px" /> | Navigate to Iteration after creating it<br/>[Internal](https://app.clubhouse.io/internal/story/62622) |
-| - | Revised layout of Reports page for more efficient use of space<br/>[Internal](https://app.clubhouse.io/internal/story/63745) |
+| <img src="images/20190621/reports-page.png" width="200px" /> | Revised layout of Reports page for more efficient use of space<br/>[Internal](https://app.clubhouse.io/internal/story/63745) |
 
 ## Week ending June 14, 2019
 
