@@ -8,6 +8,7 @@
 | <img src="images/20190621/link-to-iteration-creation.png" width="400px" /> | Navigate to Iteration after creating it<br/>[Internal](https://app.clubhouse.io/internal/story/62622) |
 | <img src="images/20190621/reports-page.png" width="400px" /> | Revised Reports page layout for more efficient use of space<br/>[Internal](https://app.clubhouse.io/internal/story/63745) |
 | <img src="images/20190621/headline-metrics.png" width="400px" /> | Headline metrics on Reports page<br/>[Internal](https://app.clubhouse.io/internal/story/63915) |
+| <img src="images/20190621/dates-iteration-creation.png" width="400px" /> | Usability tweaks to date inputs during Iteration creation<br/>[Internal](https://app.clubhouse.io/internal/story/61222) |
 
 ## Week ending June 14, 2019
 
