@@ -9,7 +9,7 @@
 | <img src="images/20190621/reports-page.png" width="400px" /> | Revised Reports page layout for more efficient use of space<br/>[Internal](https://app.clubhouse.io/internal/story/63745) |
 | <img src="images/20190621/headline-metrics.png" width="400px" /> | Headline metrics on Reports page<br/>[Internal](https://app.clubhouse.io/internal/story/63915) |
 | <img src="images/20190621/dates-iteration-creation.png" width="400px" /> | Usability tweaks to date inputs during Iteration creation<br/>[Internal](https://app.clubhouse.io/internal/story/61222) |
-| <img src="images/20190621/iteration-filter.png" width="400px" /><br/><img src="images/20190621/iteration-dropdown.png" width="400px" /> | Consistent ordering of iterations in filter and dropdown<br/>[Internal](https://app.clubhouse.io/internal/story/64101) |
+| <img src="images/20190621/iteration-filter.png" width="400px" /><br/><img src="images/20190621/iteration-dropdown.png" width="400px" /> | Consistent ordering of iterations in Stories page filter and Story dialog dropdown<br/>[Internal](https://app.clubhouse.io/internal/story/64101) |
 
 
 ## Week ending June 14, 2019
