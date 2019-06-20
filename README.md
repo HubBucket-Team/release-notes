@@ -12,7 +12,7 @@
 
 | 👀 | 🚀 |
 | :--- | :--- |
-| [Iterations](https://help.clubhouse.io/hc/en-us/articles/360028953452%5D) in<br/>public Beta | <img src="images/20190614/iterations-manage-page.png" height="200px" /> |
+| <img src="images/20190614/iterations-manage-page.png" width="200px" /> | [Iterations](https://help.clubhouse.io/hc/en-us/articles/360028953452%5D) in public Beta |
 | <img src="images/20190614/clubhouse-android.png" width="200px" /> | [Android app](https://clubhouse.io/blog/clubhouse-for-android) |
 | <img src="images/20190614/story-density.png" width="200px" /> | New Story density option: Title only<br/>[Internal](https://app.clubhouse.io/internal/story/62424) | 
 | <img src="images/20190614/stories-sidebar-filters.png" width="200px" /> | More discoverable OR vs AND in Stories page sidebar<br/>[Internal](https://app.clubhouse.io/internal/story/62433)<br/><br/>Quick filters section title<br/>[Internal](https://app.clubhouse.io/internal/story/62541) |
