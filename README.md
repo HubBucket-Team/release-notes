@@ -15,8 +15,8 @@
 | [Iterations](https://help.clubhouse.io/hc/en-us/articles/360028953452%5D) in<br/>public Beta | <img src="images/20190614/iterations-manage-page.png" height="200px" /> |
 | [Android app](https://clubhouse.io/blog/clubhouse-for-android) | <img src="images/20190614/clubhouse-android.png" height="200px" /> |
 | New Story density<br/>option: Title only<br/><br/>[Internal](https://app.clubhouse.io/internal/story/62424) | <img src="images/20190614/story-density.png" height="200px" /> |
-| More discoverable<br/>OR vs AND in Stories<br/>page sidebar<br/><br/>[Internal](https://app.clubhouse.io/internal/story/62433)<br/><br/>Quick filters section<br/>title<br/><br/>[Internal](https://app.clubhouse.io/internal/story/62541) | <img src="images/20190614/stories-sidebar-filters.png" height="200px" /> |
-| <img src="images/20190614/group-by-view-controls-to-right.png" width="200px" /> | Move group by and view controls to the right on Epics page to manage clutter<br/><br/>[Internal](https://app.clubhouse.io/internal/story/62355) |
+| <img src="images/20190614/stories-sidebar-filters.png" width="200px" /> | More discoverable OR vs AND in Stories page sidebar<br/>[Internal](https://app.clubhouse.io/internal/story/62433)<br/><br/>Quick filters section title<br/>[Internal](https://app.clubhouse.io/internal/story/62541) |
+| <img src="images/20190614/group-by-view-controls-to-right.png" width="200px" /> | Move group by and view controls to the right on Epics page to manage clutter<br/>[Internal](https://app.clubhouse.io/internal/story/62355) |
 
 ---
 
