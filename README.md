@@ -5,6 +5,7 @@
 | :--- | :--- |
 | <img src="images/20190628/iteration-icons.png" height="150px" /> | Differentiated Iteration Done icon to help blue-green color blind users<br/>[Internal](https://app.clubhouse.io/internal/story/63024) |
 | <img src="images/20190628/reports-page-velocity-chart.gif" width="400px" /> | More readable velocity chart on Reports page<br/>[Internal](https://app.clubhouse.io/internal/story/63843) |
+| <img src="images/20190628/enable-iterations-no-refresh.png" width="400px" /> | Use Iterations immediately after enabling, without browser refresh<br/>[Internal](https://app.clubhouse.io/internal/story/62801) |
 
 
 ## Week ending June 21, 2019
