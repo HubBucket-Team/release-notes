@@ -1,6 +1,6 @@
 # Clubhouse release notes 📝
 
-## Week ending June 21, 2019
+## Week ending June 28, 2019
 | 👀 | 🚀 |
 | :--- | :--- |
 | <img src="images/20190628/iteration-icons.png" height="150px" /> | Differentiated Iteration Done icon to help blue-green color blind users<br/>[Internal](https://app.clubhouse.io/internal/story/63024) |
